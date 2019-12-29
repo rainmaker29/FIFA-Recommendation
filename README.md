@@ -18,5 +18,4 @@ Dataset shape : 18207 x 89
 
 This model predicts for around 18159 players.
 
-Any improvements are welcome . :)
-
+Edit : The GUI implemented is trash,anybody interested can provide a better GUI !
